@@ -20,8 +20,8 @@ import pandas as pd
 import numpy as np
 #import matplotlib.pyplot as plt
 #import seaborn as sns
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.model_selection import train_test_split
+#from sklearn.preprocessing import MinMaxScaler
+#from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
