@@ -9,7 +9,7 @@ Original file is located at
 
 #!pip install -U ipykernel
 
-!pip install -q streamlit
+#!pip install -q streamlit
 
 
 
