@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1atdD9MfGGtWhBaI3LCn-sTui_ExzlEX_
 """
 
-!pip install -U ipykernel
+#!pip install -U ipykernel
 
 !pip install -q streamlit
 
