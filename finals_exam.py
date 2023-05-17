@@ -29,7 +29,7 @@ from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, BatchNor
 import warnings
 warnings.filterwarnings("ignore")
 import os
-from matplotlib.image import imread
+#from matplotlib.image import imread
 import random
 import matplotlib.image as mpimg
 
