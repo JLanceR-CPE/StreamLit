@@ -31,8 +31,7 @@ warnings.filterwarnings("ignore")
 import os
 #from matplotlib.image import imread
 import random
-#import 
-matplotlib.image as mpimg
+import matplotlib.image as mpimg
 
 import pathlib
 dataset = "/content/drive/MyDrive/Colab Notebooks/RONQUILLO_Final Exam/images"
