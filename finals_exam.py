@@ -17,7 +17,7 @@ from PIL import Image, ImageOps
 import numpy as np
 
 def import_and_predict(image_data, model):
-    size = (180, 180)
+    size = (64, 64)
     
     # Resize the image to the expected input shape of the model
     image = ImageOps.fit(image_data, size, Image.ANTIALIAS)
