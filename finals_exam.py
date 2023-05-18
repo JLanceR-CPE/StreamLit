@@ -26,7 +26,7 @@ def import_and_predict(image_data, model):
 
     # Reshape and normalize the image
     img_reshape = img[np.newaxis,...]
-    img_reshape = img_reshape/255 # Assuming your model was trained on images normalized in the range [0,1]
+    img_reshape = img_reshape/255 
 
     # Make predictions using the Keras model
     prediction = model.predict(img_reshape)
